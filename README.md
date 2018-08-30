@@ -3,7 +3,7 @@
 
 # 启动服务
 本项目是基于QQ邮箱的(需要在设置中开启smtp服务)
-![avatar](http://pe9f346mc.bkt.clouddn.com/%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C.png)<br>
+![avatar](http://pe9f346mc.bkt.clouddn.com/%E6%9C%8D%E5%8A%A1.png)<br>
 
 # 包含页面及功能介绍
 1. 登陆页面：登陆、注册
