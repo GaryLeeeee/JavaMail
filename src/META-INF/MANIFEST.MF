@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: smtp.jar activation.jar pop3-1.6.1.jar javax.mail-1.6.1.ja
+ r commons-email-1.1.jar mysql-connector-java-5.0.8-bin.jar mysql-conn
+ ector-java-5.1.26-bin.jar
+Main-Class: com.garylee.tcp.MyServer
+

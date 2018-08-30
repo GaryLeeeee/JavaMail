@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JavaMail:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaMail_jar</output-path>
+    <root id="archive" name="JavaMail_jar.jar">
+      <element id="archive" name="JavaMail.jar">
+        <element id="module-output" name="JavaMail" />
+      </element>
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>

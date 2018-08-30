@@ -1,0 +1,18 @@
+Date: Mon, 4 Jun 2018 09:06:14 +0800 (CST)
+From: 664306561@qq.com
+To: 664306561@qq.com
+Message-ID: <6566818.1.1528074383502@243Z59L59Q55VQT>
+Subject: =?UTF-8?B?5rWL6K+V5qCH6aKY?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_0_933699219.1528074374404"
+
+------=_Part_0_933699219.1528074374404
+Content-Type: text/plain; charset=UTF-8; 
+	name="=?UTF-8?Q?=E6=B5=8B=E8=AF=95.txt?="
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; 
+	filename="=?UTF-8?Q?=E6=B5=8B=E8=AF=95.txt?="
+
+suLK1MLSwus=
+------=_Part_0_933699219.1528074374404--
